@@ -39,8 +39,11 @@
 	[
 		"Vintage"
 	],
+	"rulers":
+	[
+		160
+	],
 	"tab_size": 2,
 	"translate_tabs_to_spaces": true,
-	"rulers": [160],
 	"trim_trailing_white_space_on_save": true
 }
