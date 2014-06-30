@@ -21,7 +21,7 @@
   pullup = !git checkout master && git fetch upstream && git merge upstream/master && git checkout -
   reup = !git checkout master && git fetch upstream && git rebase upstream/master && git checkout -
 [push]
-	default = current
+  default = current
 [branch]
   autosetuprebase = always
 [rerere]
