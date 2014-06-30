@@ -1,0 +1,46 @@
+{
+	"close_windows_when_empty": true,
+	"color_scheme": "Packages/Solarized Color Scheme/Solarized (dark).tmTheme",
+	"file_exclude_patterns":
+	[
+		"*.pyc",
+		"*.pyo",
+		"*.exe",
+		"*.dll",
+		"*.obj",
+		"*.o",
+		"*.a",
+		"*.lib",
+		"*.so",
+		"*.dylib",
+		"*.ncb",
+		"*.sdf",
+		"*.suo",
+		"*.pdb",
+		"*.idb",
+		".DS_Store",
+		"*.class",
+		"*.psd",
+		"*.db"
+	],
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		"public/assets",
+		".sass-cache",
+		".bundle",
+		"bin",
+		"tmp"
+	],
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"tab_size": 2,
+	"translate_tabs_to_spaces": true,
+	"rulers": [160],
+	"trim_trailing_white_space_on_save": true
+}
