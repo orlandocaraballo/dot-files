@@ -24,7 +24,7 @@
     "paths": {
       "linux": [],
       "osx": [
-        "~/.rbegnv/shims"
+        "~/linter_config"
       ],
       "windows": []
     },
