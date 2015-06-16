@@ -26,3 +26,5 @@
   enabled = 1
 [fetch]
   prune = true
+[merge]
+  ff = only
