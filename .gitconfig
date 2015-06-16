@@ -20,6 +20,8 @@
   reup = !git checkout master && git fetch upstream && git rebase upstream/master && git checkout -
 [push]
   default = current
+[pull]
+  rebase = true
 [branch]
   autosetuprebase = always
 [rerere]
