@@ -2,7 +2,7 @@
   name = Orlando Caraballo
   email = orlandocaraballo@gmail.com
 [core]
-  editor = subl -w
+  editor = code -w
 [color]
   ui = true
 [alias]
