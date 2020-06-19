@@ -1,4 +1,4 @@
-# Common Configs
+# Dot Files
 
 A repo to house all my common config files
 
